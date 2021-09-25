@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryahn324 or Rachel
 - 👀 I’m interested in gaming, anime, k-pop, drawing, and UX/UI.
-- 🌱 I’m currently learning more about web development in JavaScript and thinking about frameworks next!
+- 🌱 I’m currently learning more about web development and thinking about other possible careers!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rachelyahn324@gmail.com
 
